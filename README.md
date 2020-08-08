@@ -1,6 +1,14 @@
 # world_time_app
 
-A new Flutter application.
+My first Flutter application.
+
+it's main idea is to retrieve data from World Time API.
+
+-World Time API
+
+
+![](world time prototype.png)
+
 
 ## Getting Started
 
